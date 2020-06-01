@@ -1,1 +1,3 @@
-module "ytpodcast"
+module ytpodcast
+
+go 1.14
